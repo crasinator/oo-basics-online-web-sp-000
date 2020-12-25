@@ -16,7 +16,6 @@ def author
   @author 
 end 
 
-person_name
 end 
 
 
